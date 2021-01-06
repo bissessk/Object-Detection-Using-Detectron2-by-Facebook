@@ -1,7 +1,5 @@
 # Object-Detection-Using-Detectron2-by-Facebook
 
-Deep Learning Assignment.
-
 The performance of different object detection networks was evaluated using Detectron2, Facebook AI’s object detector library.
 
 * COCO Keypoint Person Detector model with a ResNet50-FPN backbone
